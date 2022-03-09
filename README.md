@@ -1,5 +1,5 @@
 <h1 align="center">
-  astronaut Landing Page
+  Astronaut Landing Page
 </h1>
 <p align="center">
   Project taken from Alexandre Santos' Youtube channel
