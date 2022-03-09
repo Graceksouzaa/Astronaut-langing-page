@@ -2,14 +2,14 @@
   astronaut Landing Page
 </h1>
 <p align="center">
-  Project taken from the frontend Mentor website
+  Project taken from Alexandre Santos' Youtube channel
 </p>
 
 ![Astronauta landing page](https://user-images.githubusercontent.com/98786475/157463463-3d81d2a7-cf16-45ac-96bf-c251547aafb2.JPG)
 
 <h3 align="center">
   
-[Link da aplicação](https://graceksouzaa.github.io/Ecommerce-Page/)
+[Link da aplicação](https://graceksouzaa.github.io/Astronaut-langing-page/)
 
 </h3>
 
